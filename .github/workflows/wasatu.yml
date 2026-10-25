@@ -49,6 +49,7 @@ jobs:
       matrix:
 
         target:
+          - '2'
           - '77'
           - '77b'
           - '78'
