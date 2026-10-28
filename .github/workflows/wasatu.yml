@@ -1,4 +1,4 @@
-name: "wasatu"
+name: "wasatus"
 
 on:
   workflow_dispatch:
